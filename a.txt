@@ -1,3 +1,6 @@
 teste 
 
 entendendo o hash
+
+
+está linha foi modificada no master
