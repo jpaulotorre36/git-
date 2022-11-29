@@ -4,3 +4,4 @@ entendendo o hash
 
 
 está linha foi modificada no master
+Hoje está linha foi modificada no ramo teste
